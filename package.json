@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "test-12.04.2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memoryjs": "^3.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
